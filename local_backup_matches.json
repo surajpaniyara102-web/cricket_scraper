@@ -1,0 +1,18 @@
+[
+    {
+        "team1": "India",
+        "team2": "Australia",
+        "info": "1st T20I - Mumbai",
+        "time": "07:30 PM",
+        "match_url": "https://crex.com/fixtures/match-list/mock-t20-1",
+        "status": "upcoming"
+    },
+    {
+        "team1": "Mumbai Indians",
+        "team2": "Chennai Super Kings",
+        "info": "IPL Match 45 - Wankhede",
+        "time": "08:00 PM",
+        "match_url": "https://crex.com/fixtures/match-list/mock-ipl-45",
+        "status": "upcoming"
+    }
+]
